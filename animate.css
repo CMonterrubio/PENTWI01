@@ -1,0 +1,14 @@
+body {
+  font-family:verdana;}
+h1 {
+     font-size:24px;
+      width:400px;
+      padding:10px;
+      text-align:center;
+      background-color:#2B57D9;
+      color:#fff;}
+
+p {
+  font-size:16px;
+  background-color:#ddd;
+  padding:10px;}
